@@ -835,7 +835,7 @@ header.main-header .header-sticky.active .navbar{
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: contain;
-	padding: 100px 0;
+	padding: 70px 0;
 }
 
 .about-us-images{
@@ -1069,7 +1069,7 @@ header.main-header .header-sticky.active .navbar{
 /************************************/
 
 .why-choose-us{
-	padding: 100px 0;
+	padding: 70px 0;
 	background-color: var(--secondery-color);
 }
 
@@ -1213,7 +1213,7 @@ header.main-header .header-sticky.active .navbar{
 /************************************/
 
 .our-services{
-	padding: 100px 0;
+	padding: 70px 0;
 	background-color: var(--secondery-color);
 }
 
@@ -1551,7 +1551,7 @@ header.main-header .header-sticky.active .navbar{
 
 .how-we-work{
 	background: var(--primary-color);
-	padding: 100px 0;
+	padding: 70px 0;
 }
 
 .how-we-work-list{
@@ -1926,7 +1926,7 @@ header.main-header .header-sticky.active .navbar{
 /************************************/
 
 .main-footer{
-	padding: 80px 0 0;
+	padding: 30px 0 0;
 	/* background: var(--primary-color); */
 	background:#024b44b8;
 }

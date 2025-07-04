@@ -28,8 +28,8 @@
                 
                                         <!-- Hero Button Start -->
                                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                                            <a href="about.html" class="btn-default">explore more</a>
-                                            <a href="projects.html" class="btn-default btn-highlighted">view projects</a>
+                                            <a href="#" class="btn-default">explore more</a>
+                                            <a href="#" class="btn-default btn-highlighted">view projects</a>
                                         </div>
                                         <!-- Hero Button End -->
                                     </div>
@@ -65,8 +65,8 @@
                 
                                         <!-- Hero Button Start -->
                                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                                            <a href="about.html" class="btn-default">explore more</a>
-                                            <a href="projects.html" class="btn-default btn-highlighted">view projects</a>
+                                            <a href="#" class="btn-default">explore more</a>
+                                            <a href="#" class="btn-default btn-highlighted">view projects</a>
                                         </div>
                                         <!-- Hero Button End -->
                                     </div>
@@ -93,7 +93,7 @@
                         <!-- About Image 1 Start -->
                         <div class="about-img-1">
                             <figure class="image-anime reveal">
-                                <img src="images/about-img-1.jpg" alt="">
+                                <img src="images/home/about-1.png" alt="">
                             </figure>
                         </div>
                         <!-- About Image 1 End -->
@@ -101,12 +101,12 @@
                         <!-- About Image 2 Start -->
                         <div class="about-img-2">
                             <figure class="image-anime reveal">
-                                <img src="images/about-img-2.jpg" alt="">
+                                <img src="images/home/about-us.png" alt="">
                             </figure>
 
                             <!-- Feedback Counter Start -->
                             <div class="experience-counter">
-                                <h3><span class="counter">15</span>+</h3>
+                                <h3><span class="counter">7</span>+</h3>
                                 <p>Years of experience</p>
                             </div>
                             <!-- Feedback Counter End -->
@@ -130,7 +130,7 @@
                         <div class="section-title">
                             <h3 class="wow fadeInUp">about us</h3>
                             <h2 class="text-anime-style-2" data-cursor="-opaque">Our passion for design, your <span>vision realized</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">Our dedicated team of designers works closely with you to understand your vision and bring it to life with thoughtful attention to detail. Whether it's transforming a single room or an entire home.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">Vision Craft Interior Design LLC is a dynamic interior design company dedicated to transforming spaces into inspiring environments. With a passion for creativity and a commitment to excellence, we specialize in residential, commercial, and hospitality interiors. Our team blends functionality with aesthetics, offering tailored solutions that reflect our clients' vision and lifestyle. From concept to completion, we prioritize quality, innovation, and attention to detail. </p>
                         </div>
                         <!-- Section Title End -->
 
@@ -149,7 +149,7 @@
 
                                 <!-- About Us Content Button Start -->
                                 <div class="about-us-content-btn wow fadeInUp" data-wow-delay="0.6s">
-                                    <a href="about.html" class="btn-default">read more</a>
+                                    <a href="#" class="btn-default">read more</a>
                                 </div>
                                 <!-- About Us Content Button End -->
                             </div>
@@ -164,21 +164,19 @@
                                     </div>
                                     <div class="about-contact-content">
                                         <p>need any help?</p>
-                                        <h3>+(1) 235 800 999</h3>
+                                        <h3>+91 9876543210</h3>
                                     </div>
                                 </div>
                                 <!-- About Contact Item End -->
 
                                 <!-- About Contact Item Start -->
-                                <div class="about-contact-item wow fadeInUp" data-wow-delay="0.6s">
+                                <div class="about-contact-item wow fadeInUp" data-wow-delay="0.4s">
                                     <div class="icon-box">
-                                        <figure class="image-anime">
-                                            <img src="images/author-1.jpg" alt="">
-                                        </figure>
+                                        <i class="fa-solid fa-envelope"></i>
                                     </div>
                                     <div class="about-contact-content">
-                                        <h3>leslie alexander</h3>
-                                        <p>co founder</p>
+                                        <p>Mail Us</p>
+                                        <h3>admin@example.com</h3>
                                     </div>
                                 </div>
                                 <!-- About Contact Item End -->
@@ -201,15 +199,15 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">our services</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Innovative design services for <span>every need</span></h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Transformative Spaces with <span>Innovative Design</span></h2>
                     </div>
-                    <!-- Section Title End -->
+                    <!-- Section Title End --> 
                 </div>
 
                 <div class="col-lg-6">
                     <!-- Section Title Content Start -->
                     <div class="section-title-content">
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">We offer a range of bespoke interior design services tailored to your unique needs. From concept development to final installation.</p>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">We provide customized interior design solutions, guiding you from initial concept to final installation, ensuring every detail reflects your vision.</p>
                     </div>
                     <!-- Section Title Content End -->
                 </div>
@@ -221,9 +219,9 @@
                     <div class="service-item wow fadeInUp">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-1.jpg" alt="">
+                                    <img src="images/home/services-1.png" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -231,14 +229,14 @@
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">residential interior design</a></h3>
-                            <p>We create personalized living spaces that reflect your style and functional needs.</p>
+                            <h3><a href="#">Turnkey Contract</a></h3>
+                            <p>A turnkey contract delivers a complete project, ready for use, with the contractor handling design, construction, and commissioning responsibilities.</p>
                         </div>
                         <!-- Service Content End -->
                     </div>
@@ -250,9 +248,9 @@
                     <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-2.jpg" alt="">
+                                    <img src="images/home/services-4.jpeg" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -260,14 +258,14 @@
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">commercial interior design</a></h3>
-                            <p>Enhancing business environments with professional, functional, and aesthetically.</p>
+                            <h3><a href="#">Interior Fitout</a></h3>
+                            <p>Interior fit-out involves customizing internal spaces with finishes, furniture, partitions, and services to make them functional and visually appealing.</p>
                         </div>
                         <!-- Service Content End -->
                     </div>
@@ -279,9 +277,9 @@
                     <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-3.jpg" alt="">
+                                    <img src="images/home/services-5.jpeg" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -289,14 +287,14 @@
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">furniture and decor selection</a></h3>
-                            <p>Our experts help you choose the perfect furniture and decor complement your style.</p>
+                            <h3><a href="#">FF&E</a></h3>
+                            <p>FF&E (Furniture, Fixtures & Equipment) includes movable items like desks, chairs, lighting, and technology essential for interior functionality and aesthetics.</p>
                         </div>
                         <!-- Service Content End -->
                     </div>
@@ -306,7 +304,7 @@
                 <div class="col-lg-12">
                     <!-- All Services Button Start -->
                     <div class="all-services-btn wow fadeInUp" data-wow-delay="0.6s">
-                        <a href="services.html" class="btn-default">see all services</a>
+                        <a href="#" class="btn-default">see all services</a>
                    </div>
                    <!-- All Services Button End -->
                 </div>
@@ -326,7 +324,7 @@
                         <div class="intro-video-image">
                             <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
                                 <figure class="image-anime">
-                                    <img src="images/intro-video-bg.jpg" alt="">
+                                    <img src="images/home/video.jpg" alt="">
                                 </figure>
                             </a>                            
                         </div>
@@ -353,9 +351,9 @@
                     <div class="why-choose-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">why choose us</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">A behind the scenes look at <span>our agency</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">From concept to completion, discover how we bring your vision to life with innovation, collaboration, and expert craftsmanship.</p>
+                            <h3 class="wow fadeInUp">why choose us</h3> 
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Inside the Minds<span>  of Our Team</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">At Vision Craft Interiors, we transform your ideas into inspiring spaces combining innovative design, thoughtful collaboration, and skilled craftsmanship to bring your vision to life, from the first sketch to the final touch.</p>
                         </div>
                         <!-- Section Title End -->
 
@@ -371,8 +369,8 @@
 
                                 <!-- Why Choose Item Content Start -->
                                 <div class="why-choose-item-content">
-                                    <h3>tailored design solutions</h3>
-                                    <p>We provide personalized interior design services that reflect your unique vision and lifestyle.</p>
+                                    <h3>Innovative & Modern Approach</h3>
+                                    <p>We stay ahead of design trends to bring you timeless, yet contemporary interiors.</p>
                                 </div>
                                 <!-- Why Choose Item Content End -->
                             </div>
@@ -388,8 +386,8 @@
 
                                 <!-- Why Choose Item Content Start -->
                                 <div class="why-choose-item-content">
-                                    <h3>Seamless Project Management</h3>
-                                    <p>We handle the entire design process, from concept to completion, with flawless execution.</p>
+                                    <h3>Experienced Design Team</h3>
+                                    <p>Our skilled designers and craftsmen bring years of experience and creativity to every project.</p>
                                 </div>
                                 <!-- Why Choose Item Content End -->
                             </div>
@@ -405,8 +403,8 @@
 
                                 <!-- Why Choose Item Content Start -->
                                 <div class="why-choose-item-content">
-                                    <h3>Client-Centered Collaboration</h3>
-                                    <p>Your input is valued throughout the entire process, ensuring your vision is fully realized.</p>
+                                    <h3>Turnkey Solutions</h3>
+                                    <p>Hassle-free turnkey interiors—design, execution, and delivery, all under one roof.</p>
                                 </div>
                                 <!-- Why Choose Item Content End -->
                             </div>
@@ -425,7 +423,7 @@
                             <!-- Why Choose img 1 Start -->
                             <div class="why-choose-img-1">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-img-1.jpg" alt="">
+                                    <img src="images/home/why.png" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose img 1 End -->
@@ -433,7 +431,7 @@
                             <!-- Why Choose img 2 Start -->
                             <div class="why-choose-img-2">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-img-2.jpg" alt="">
+                                    <img src="images/home/why-1.png" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose img 2 End -->
@@ -445,7 +443,7 @@
                             <!-- Why Choose img 3 Start -->
                             <div class="why-choose-img-3">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-img-3.jpg" alt="">
+                                    <img src="images/home/why-2.png" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose img 3 End -->
@@ -453,7 +451,7 @@
                             <!-- Why Choose img 4 Start -->
                             <div class="why-choose-img-4">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-img-4.jpg" alt="">
+                                    <img src="images/home/why-3.png" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose img 4 End -->
@@ -474,7 +472,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title dark-section">
                         <h3 class="wow fadeInUp">how we work</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">From concept to completion in<span> our work</span></h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">A Seamless Journey from<span> Concept to Creation</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -482,7 +480,7 @@
                 <div class="col-lg-6">
                     <!-- Section Title Content Start -->
                     <div class="section-title-content dark-section">
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our comprehensive approach guides you through each phase of the design process, from initial brainstorming and conceptualization.</p>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our end-to-end design process walks you through each stage from concept development to flawless completion—with clarity and confidence.</p>
                     </div>
                     <!-- Section Title Content End -->
                 </div>
@@ -498,8 +496,8 @@
                                 <img src="images/icon-how-we-work-1.svg" alt="">
                             </div>
                             <div class="how-we-work-content">
-                                <h3>01. initial consultation</h3>
-                                <p>We start with a one-on meeting to understand your vision preferences and requirement.</p>
+                                <h3>01. Bespoke Consultation</h3>
+                                <p>Every journey begins with a private design consultation, tailored to understand your lifestyle and aesthetic aspirations.</p>
                             </div>
                         </div>
                         <!-- How We Item End -->
@@ -510,8 +508,8 @@
                                 <img src="images/icon-how-we-work-2.svg" alt="">
                             </div>
                             <div class="how-we-work-content">
-                                <h3>02. design planning</h3>
-                                <p>This involves selecting materials, and layouts, furnishings, as well as creating 3D renderings.</p>
+                                <h3>02. Curated Design & Visualization</h3>
+                                <p>We translate your vision into elegant concepts, with refined mood boards, layouts, and photorealistic 3D renders.</p>
                             </div>
                         </div>
                         <!-- How We Item End -->
@@ -522,8 +520,8 @@
                                 <img src="images/icon-how-we-work-3.svg" alt="">
                             </div>
                             <div class="how-we-work-content">
-                                <h3>03. project execution</h3>
-                                <p>With the design plans in this place, we manage and coordinate all aspects of the projects.</p>
+                                <h3>03. Flawless Execution</h3>
+                                <p>From artisan craftsmanship to premium finishes, our team ensures precision and perfection in every detail.</p>
                             </div>
                         </div>
                         <!-- How We Item End -->
@@ -534,69 +532,13 @@
                                 <img src="images/icon-how-we-work-4.svg" alt="">
                             </div>
                             <div class="how-we-work-content">
-                                <h3>04. final review</h3>
-                                <p>After completing project we conduct a thorough walkthrough with you to review the space.</p>
+                                <h3>04. White-Glove Handover</h3>
+                                <p>Your space is revealed with final styling touches and a commitment to timeless luxury delivered seamlessly, on schedule.</p>
                             </div>
                         </div>
                         <!-- How We Item End -->
                     </div>
                     <!-- How We Work List End -->
-
-                    <!-- How Work Company Slider Start -->
-                    <div class="how-work-company-slider">
-                        <div class="swiper">
-                            <div class="swiper-wrapper">
-                                <!-- Company Support Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="company-logo">
-                                        <img src="images/company-logo-1.svg" alt="">
-                                    </div>
-                                </div>
-                                <!-- Company Support Logo End -->
-
-                                <!-- Company Support Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="company-logo">
-                                        <img src="images/company-logo-2.svg" alt="">
-                                    </div>
-                                </div>
-                                <!-- Company Support Logo End -->
-
-                                <!-- Company Support Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="company-logo">
-                                        <img src="images/company-logo-3.svg" alt="">
-                                    </div>
-                                </div>
-                                <!-- Company Support Logo End -->
-                                
-                                <!-- Company Support Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="company-logo">
-                                        <img src="images/company-logo-4.svg" alt="">
-                                    </div>
-                                </div>
-                                <!-- Company Support Logo End -->
-                                
-                                <!-- Company Support Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="company-logo">
-                                        <img src="images/company-logo-5.svg" alt="">
-                                    </div>
-                                </div>
-                                <!-- Company Support Logo End -->
-                                
-                                <!-- Company Support Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="company-logo">
-                                        <img src="images/company-logo-1.svg" alt="">
-                                    </div>
-                                </div>
-                                <!-- Company Support Logo End -->
-                            </div>
-                        </div>
-                    </div>
-                    <!-- How Work Company Slider End -->
                 </div>
             </div>
         </div>
@@ -611,7 +553,7 @@
                     <!-- Our Testimonial Image Start -->
                     <div class="our-testimonials-image">
                         <figure class="image-anime">
-                            <img src="images/testimonial-img.jpg" alt="">
+                            <img src="images/home/test.jpg" alt="">
                         </figure>
                     </div>
                     <!-- Our Testimonial Image End -->
@@ -623,7 +565,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">client testimonials</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Trusted by thousand of <span>people & companies.</span></h2>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Preferred by Connoisseurs <span>of Design Excellence</span></h2>
                         </div>
                         <!-- Section Title End -->
 
@@ -643,7 +585,7 @@
                                             </div>                                        
                                             <div class="testimonial-body">
                                                 <div class="testimonial-content">
-                                                    <p>I couldn't be happier with the transformation of my home! From our very first consultation, the team at took the time to understand my vision and preferences.</p>
+                                                    <p>Vision Craft Interiors brought our dream home to life with elegance and precision. Their design team understood our vision from day one and delivered a space that’s both luxurious and functional. Every detail was thoughtfully executed. Highly recommended!</p>
                                                 </div>
                                             </div>
                                             <div class="testimonial-body">
@@ -653,8 +595,8 @@
                                                     </figure>
                                                 </div>            
                                                 <div class="author-content">
-                                                    <h3>arlene mcCoy</h3>
-                                                    <p>co. founder</p>
+                                                    <h3>Rohit Mehta</h3>
+                                                    <p>Bangalore</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -672,7 +614,7 @@
                                                 <i class="fa-solid fa-star"></i>
                                             </div>                                        
                                             <div class="testimonial-content">
-                                                <p>I couldn't be happier with the transformation of my home! From our very first consultation, the team at took the time to understand my vision and preferences.</p>
+                                                <p>We were impressed with their professionalism and seamless process. From design concepts to the final reveal, Vision Craft Interiors handled everything with care and creativity. Our office space now reflects the sophistication we wanted.</p>
                                             </div>
                                             <div class="testimonial-body">
                                                 <div class="author-image">
@@ -681,8 +623,35 @@
                                                     </figure>
                                                 </div>            
                                                 <div class="author-content">
-                                                    <h3>arlene mcCoy</h3>
-                                                    <p>co founder</p>
+                                                    <h3>Ananya R</h3>
+                                                    <p>Hyderabad</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+                                     <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">	
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>                                        
+                                            <div class="testimonial-content">
+                                                <p>What sets Vision Craft apart is their ability to listen. They translated our ideas into a stunning interior that perfectly suits our lifestyle. Exceptional craftsmanship and timely delivery made the experience truly stress-free.</p>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div>            
+                                                <div class="author-content">
+                                                    <h3>Karthik & Swathi</h3>
+                                                    <p>Coimbatore</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -692,24 +661,6 @@
                             </div>
                         </div>
                         <!-- Testimonial Slider End -->
-
-                        <!-- Testimonial Rating Counter Start -->
-                        <div class="testimonial-rating-counter">
-                            <div class="rating-counter">
-                                <h2><span class="counter">4.82</span></h2>
-                            </div>
-                            <div class="testimonial-rating-content">
-                                <div class="testimonial-client-rating">
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                </div>
-                                <p>2,488 reviews</p>
-                            </div>
-                        </div>
-                        <!-- Testimonial Rating Counter End -->
                     </div>
                     <!-- Our Testimonial Content End -->
                 </div>

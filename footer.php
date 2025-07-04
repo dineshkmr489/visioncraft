@@ -9,7 +9,7 @@
                             <div class="col-md-6">
                                 <!-- Footer Logo Start -->
                                 <div class="footer-logo">
-                                    <img src="images/footer-logo.svg" alt="">
+                                    <img src="images/home/vision-2.png" alt="" width="80px">
                                 </div>
                                 <!-- Footer Logo End -->
                             </div>
@@ -21,8 +21,9 @@
                                         <h3>follow our socials</h3>
                                     </div>
                                     <ul>
+                                        <li><a href="#"><i class="fa-brands fa-whatsapp"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fa-brands fa-dribbble"></i></a></li>
+                                        <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
@@ -38,11 +39,11 @@
                      <div class="footer-links">
                         <h3>information</h3>
                         <ul>
-                            <li><a href="about.html">about our company</a></li>
-                            <li><a href="services.html">view our service</a></li>
-                            <li><a href="#">careers at company</a></li>
-                            <li><a href="blog.html">read our blog</a></li>
-                            <li><a href="projects.html">our latest projects</a></li>
+                            <li><a href="#">about our company</a></li>
+                             <li><a href="#">our latest projects</a></li>
+                            <!-- <li><a href="#">view our service</a></li> -->
+                             <li><a href="#">contact us</a></li>
+                           
                         </ul>
                      </div>
                     <!-- Footer Links End -->
@@ -51,13 +52,11 @@
                 <div class="col-lg-3 col-md-6">
                     <!-- Footer Links Start -->
                      <div class="footer-links">
-                        <h3>portfolio</h3>
+                        <h3>Our Services</h3>
                         <ul>
-                            <li><a href="project-single.html">luxury home design</a></li>
-                            <li><a href="project-single.html">residential interior design</a></li>
-                            <li><a href="project-single.html">commercial space design</a></li>
-                            <li><a href="project-single.html">residential interior design</a></li>
-                            <li><a href="project-single.html">renovation and restoration design</a></li>
+                            <li><a href="#">Turnkey Contracts</a></li>
+                            <li><a href="#">Interior Fitout</a></li>
+                            <li><a href="#">FF & E</a></li>
                         </ul>
                      </div>
                     <!-- Footer Links End -->
@@ -73,7 +72,7 @@
                                 <i class="fa-solid fa-phone"></i>
                             </div>
                             <div class="footer-contact-content">
-                                <p>+1 (213) 465 789</p>
+                                <p>+91 9876543210</p>
                             </div>
                         </div>
                         <!-- Footer Contact Item End -->
@@ -84,7 +83,7 @@
                                 <i class="fa-solid fa-envelope"></i>
                             </div>
                             <div class="footer-contact-content">
-                                <p>info@domain.com</p>
+                                <p>admin@example.com</p>
                             </div>
                         </div>
                         <!-- Footer Contact Item End -->
@@ -95,7 +94,7 @@
                                 <i class="fa-solid fa-location-dot"></i>
                             </div>
                             <div class="footer-contact-content">
-                                <p>Generała Ziętka Jerzego 54, Mysłowice 41-412</p>
+                                <p>Chennai</p>
                             </div>
                         </div>
                         <!-- Footer Contact Item End -->
@@ -129,7 +128,7 @@
                     <div class="col-md-12">
                         <!-- Footer Copyright Start -->
                         <div class="footer-copyright-text">
-                            <p>Copyright © 2024 All Rights Reserved.</p>
+                            <p>Copyright © 2025 All Rights Reserved By Vision Craft Interiors.</p>
                         </div>
                         <!-- Footer Copyright End -->
                     </div>
